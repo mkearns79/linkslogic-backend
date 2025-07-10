@@ -1,16 +1,363 @@
-{"timestamp": "2025-06-04T10:47:41.848837", "tokens": 465, "cost": 0.0065, "question_preview": "my partner is late to our fourball match play game..."}
-{"timestamp": "2025-06-04T12:14:43.296516", "tokens": 470, "cost": 0.0069, "question_preview": "what do I do if i accidentally tee off from the wr..."}
-{"timestamp": "2025-06-10T16:34:26.952508", "tokens": 449, "cost": 0.0062, "question_preview": "can i look at an opponent's golf bag to learn what..."}
-{"timestamp": "2025-06-11T11:57:30.345842", "tokens": 531, "cost": 0.0073, "question_preview": "I chipped my ball onto the green and my opponent h..."}
-{"timestamp": "2025-06-11T15:50:06.921861", "tokens": 304, "cost": 0.006, "question_preview": "I hit my ball onto the roof of the maintenance fac..."}
-{"timestamp": "2025-06-11T16:16:47.069916", "tokens": 202, "cost": 0.0041, "question_preview": "I hit my ball onto the roof of the maintenance fac..."}
-{"timestamp": "2025-06-11T16:25:50.341006", "tokens": 194, "cost": 0.0042, "question_preview": "Ball on maintenance facility roof on 10th hole"}
-{"timestamp": "2025-06-11T16:27:24.305821", "tokens": 172, "cost": 0.0034, "question_preview": "ball hit maintenance facility on the 10th hole and..."}
-{"timestamp": "2025-06-11T16:30:59.098928", "tokens": 176, "cost": 0.0037, "question_preview": "Ball lost on maintenance facility roof on 10th hol..."}
-{"timestamp": "2025-06-11T16:52:13.218378", "tokens": 614, "cost": 0.0113, "question_preview": "Ball lost on maintenance facility on 10th hole"}
-{"timestamp": "2025-06-11T16:55:00.984088", "tokens": 770, "cost": 0.0137, "question_preview": "I'm on hole #2 and my tee shot went over the train..."}
-{"timestamp": "2025-06-12T09:01:54.099164", "tokens": 690, "cost": 0.0123, "question_preview": "if I pick up my ball with intention to take allowa..."}
-{"timestamp": "2025-06-12T09:09:52.874303", "tokens": 733, "cost": 0.0139, "question_preview": "I hit my ball out of bounds. What do I do?"}
-{"timestamp": "2025-06-25T14:56:27.488639", "tokens": 301, "cost": 0.0047, "question_preview": "My ball is lost in the woods"}
-{"timestamp": "2025-06-25T14:56:33.212761", "tokens": 336, "cost": 0.0055, "question_preview": "What happens if my ball is in the water on hole 17..."}
-{"timestamp": "2025-06-25T14:56:37.086436", "tokens": 271, "cost": 0.0039, "question_preview": "Can I ground my club in a bunker?"}
+{"timestamp": "2025-06-25T15:51:44.576099", "tokens": 291, "cost": 0.0044, "question_preview": "My ball is lost in the woods"}
+{"timestamp": "2025-06-25T15:55:45.081602", "tokens": 325, "cost": 0.0054, "question_preview": "My ball is lost in the woods"}
+{"timestamp": "2025-06-25T17:07:37.273461", "tokens": 337, "cost": 0.0056, "question_preview": "My ball is in the water on hole 17"}
+{"timestamp": "2025-06-25T17:24:27.463762", "tokens": 272, "cost": 0.0038, "question_preview": "Can I get relief from portions of the cart path ma..."}
+{"timestamp": "2025-06-26T17:53:38.679379", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:40.029908", "tokens": 266, "cost": 0.0037, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:40.987290", "tokens": 263, "cost": 0.0036, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:41.941350", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:41.976447", "tokens": 242, "cost": 0.003, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:42.057298", "tokens": 238, "cost": 0.0029, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:42.447833", "tokens": 235, "cost": 0.0028, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:43.196607", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:43.746974", "tokens": 257, "cost": 0.0034, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:43.747568", "tokens": 240, "cost": 0.0029, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:43.908561", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:44.118544", "tokens": 256, "cost": 0.0034, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:44.254748", "tokens": 240, "cost": 0.0029, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:44.704996", "tokens": 239, "cost": 0.0029, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:44.990221", "tokens": 244, "cost": 0.0031, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:45.251293", "tokens": 241, "cost": 0.003, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:45.750977", "tokens": 231, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:45.929370", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:46.411056", "tokens": 253, "cost": 0.0033, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:46.651279", "tokens": 235, "cost": 0.0028, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:46.707363", "tokens": 255, "cost": 0.0034, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:47.420912", "tokens": 235, "cost": 0.0028, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:47.672113", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:47.840408", "tokens": 242, "cost": 0.003, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:48.006976", "tokens": 270, "cost": 0.0038, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:48.025910", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:48.366032", "tokens": 241, "cost": 0.003, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:48.720003", "tokens": 247, "cost": 0.0032, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:49.024171", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:49.130744", "tokens": 240, "cost": 0.0029, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:49.730737", "tokens": 259, "cost": 0.0035, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:49.783338", "tokens": 250, "cost": 0.0032, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:49.885589", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:49.938173", "tokens": 242, "cost": 0.003, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:50.463889", "tokens": 242, "cost": 0.003, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:50.715590", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:50.769794", "tokens": 235, "cost": 0.0028, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:50.970229", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:51.070563", "tokens": 242, "cost": 0.003, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:51.722727", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:52.048643", "tokens": 235, "cost": 0.0028, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:52.380111", "tokens": 240, "cost": 0.0029, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:52.488797", "tokens": 235, "cost": 0.0028, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:52.733689", "tokens": 240, "cost": 0.0029, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:53.234602", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:53.265515", "tokens": 240, "cost": 0.0029, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:53.501525", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:53.531108", "tokens": 239, "cost": 0.0029, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:54.018523", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:54.535747", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:54.536497", "tokens": 264, "cost": 0.0037, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:55.150589", "tokens": 242, "cost": 0.003, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:55.762769", "tokens": 235, "cost": 0.0028, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:55.784687", "tokens": 242, "cost": 0.003, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:55.950243", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:58.624872", "tokens": 267, "cost": 0.0037, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:59.283441", "tokens": 231, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:53:59.898943", "tokens": 242, "cost": 0.003, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:54:04.052399", "tokens": 233, "cost": 0.0027, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:54:04.107676", "tokens": 240, "cost": 0.0029, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:54:05.704731", "tokens": 240, "cost": 0.0029, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:54:08.346134", "tokens": 235, "cost": 0.0028, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:54:08.660074", "tokens": 235, "cost": 0.0028, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:54:08.797752", "tokens": 241, "cost": 0.003, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:54:10.002941", "tokens": 280, "cost": 0.0041, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:54:10.057305", "tokens": 266, "cost": 0.0037, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:54:13.310044", "tokens": 235, "cost": 0.0028, "question_preview": "my ball is resting on"}
+{"timestamp": "2025-06-26T17:54:39.371585", "tokens": 319, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:39.894658", "tokens": 305, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:43.582725", "tokens": 306, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:43.735487", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:44.041308", "tokens": 346, "cost": 0.0056, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:44.153229", "tokens": 335, "cost": 0.0053, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:46.718767", "tokens": 307, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:46.845545", "tokens": 304, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:46.899273", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:47.378718", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:47.792999", "tokens": 331, "cost": 0.0052, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:48.572456", "tokens": 332, "cost": 0.0052, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:50.246008", "tokens": 305, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:50.386728", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:50.553217", "tokens": 312, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:51.284870", "tokens": 306, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:51.459800", "tokens": 304, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:51.715974", "tokens": 320, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:53.490369", "tokens": 299, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:53.490643", "tokens": 304, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:57.157844", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:57.771199", "tokens": 319, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:58.713825", "tokens": 327, "cost": 0.005, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:54:59.335505", "tokens": 375, "cost": 0.0065, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:01.869792", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:04.274400", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:08.025777", "tokens": 315, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:08.835248", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:10.766608", "tokens": 322, "cost": 0.0049, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:11.311238", "tokens": 372, "cost": 0.0064, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:16.406563", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:16.994522", "tokens": 321, "cost": 0.0049, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:17.649116", "tokens": 328, "cost": 0.0051, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:17.840970", "tokens": 334, "cost": 0.0053, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:22.789286", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:23.870284", "tokens": 319, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:27.713882", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:27.758733", "tokens": 320, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:31.408137", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:32.712220", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:35.854554", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:37.092348", "tokens": 305, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:37.603177", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:37.651406", "tokens": 324, "cost": 0.005, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:41.734465", "tokens": 328, "cost": 0.0051, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:42.391552", "tokens": 317, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:46.081790", "tokens": 299, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:48.894211", "tokens": 314, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:49.623659", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:50.122387", "tokens": 299, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:50.173547", "tokens": 318, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:50.903506", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:58.292596", "tokens": 300, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:58.299986", "tokens": 301, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:58.596374", "tokens": 315, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:58.689762", "tokens": 320, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:55:59.798358", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:00.445702", "tokens": 327, "cost": 0.005, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:07.751029", "tokens": 306, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:08.326014", "tokens": 316, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:10.352247", "tokens": 305, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:11.307152", "tokens": 312, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:17.510998", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:17.737081", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:17.833203", "tokens": 332, "cost": 0.0052, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:21.125112", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:25.385197", "tokens": 354, "cost": 0.0059, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:25.545878", "tokens": 301, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:26.703446", "tokens": 324, "cost": 0.005, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:26.792114", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:31.344962", "tokens": 305, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:32.222887", "tokens": 312, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:33.317555", "tokens": 307, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:34.185535", "tokens": 321, "cost": 0.0049, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:34.904527", "tokens": 328, "cost": 0.0051, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:40.621384", "tokens": 317, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:42.165026", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:42.716397", "tokens": 326, "cost": 0.005, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:44.696018", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:48.960964", "tokens": 312, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:50.002725", "tokens": 304, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:53.411633", "tokens": 358, "cost": 0.006, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:54.309646", "tokens": 320, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:54.856916", "tokens": 317, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:56:56.766266", "tokens": 329, "cost": 0.0051, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:00.780925", "tokens": 319, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:01.317086", "tokens": 334, "cost": 0.0053, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:03.164938", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:03.884025", "tokens": 320, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:05.395914", "tokens": 343, "cost": 0.0055, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:06.066410", "tokens": 337, "cost": 0.0053, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:11.917453", "tokens": 339, "cost": 0.0054, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:14.303249", "tokens": 302, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:14.933265", "tokens": 319, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:16.744909", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:16.759971", "tokens": 312, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:17.744222", "tokens": 345, "cost": 0.0056, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:19.024789", "tokens": 313, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:25.773488", "tokens": 304, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:26.247945", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:26.289456", "tokens": 307, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:26.455129", "tokens": 302, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:28.005326", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:33.392866", "tokens": 313, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:36.365624", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:37.295735", "tokens": 306, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:39.189194", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:40.745728", "tokens": 335, "cost": 0.0053, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:44.508571", "tokens": 333, "cost": 0.0052, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:44.942210", "tokens": 301, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:45.596498", "tokens": 320, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:45.642767", "tokens": 292, "cost": 0.004, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:51.169822", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:53.209124", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:54.007534", "tokens": 319, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:54.434639", "tokens": 313, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:58.081151", "tokens": 328, "cost": 0.0051, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:58.838902", "tokens": 318, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:57:59.935043", "tokens": 312, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:03.259947", "tokens": 328, "cost": 0.0051, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:05.862042", "tokens": 313, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:07.350784", "tokens": 302, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:07.454497", "tokens": 307, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:10.314271", "tokens": 304, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:12.325017", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:12.666965", "tokens": 305, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:13.855825", "tokens": 304, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:18.297160", "tokens": 300, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:18.818826", "tokens": 327, "cost": 0.005, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:21.898324", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:25.183842", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:25.329242", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:26.659391", "tokens": 317, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:27.310374", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:29.729858", "tokens": 318, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:30.669595", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:36.004201", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:36.018867", "tokens": 299, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:36.844888", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:41.822251", "tokens": 316, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:43.944419", "tokens": 315, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:43.952378", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:44.027079", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:44.231846", "tokens": 320, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:44.576905", "tokens": 335, "cost": 0.0053, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:53.436217", "tokens": 307, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:53.992569", "tokens": 326, "cost": 0.005, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:54.095291", "tokens": 313, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:58:57.642600", "tokens": 314, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:00.040332", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:01.103117", "tokens": 325, "cost": 0.005, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:03.245344", "tokens": 331, "cost": 0.0052, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:05.655234", "tokens": 319, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:07.301308", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:08.476166", "tokens": 305, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:09.975709", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:12.049264", "tokens": 307, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:13.915833", "tokens": 315, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:17.856672", "tokens": 303, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:18.561340", "tokens": 305, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:20.452331", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:20.505024", "tokens": 313, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:21.349911", "tokens": 319, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:21.791061", "tokens": 307, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:22.936942", "tokens": 324, "cost": 0.005, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:30.350811", "tokens": 315, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:32.933667", "tokens": 313, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:32.943218", "tokens": 303, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:37.304228", "tokens": 320, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:37.507361", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:37.631140", "tokens": 318, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:37.890954", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:40.518396", "tokens": 312, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:44.295113", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:46.339518", "tokens": 319, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:47.140474", "tokens": 341, "cost": 0.0055, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:49.345015", "tokens": 328, "cost": 0.0051, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:51.561443", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:54.293828", "tokens": 300, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:57.313076", "tokens": 300, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T17:59:57.357747", "tokens": 305, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:00.008020", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:02.364542", "tokens": 299, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:03.289990", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:03.458166", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:04.073703", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:08.780168", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:09.783135", "tokens": 313, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:12.421835", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:12.991678", "tokens": 303, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:15.472361", "tokens": 299, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:19.350164", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:22.424869", "tokens": 328, "cost": 0.0051, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:22.692229", "tokens": 305, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:23.026921", "tokens": 312, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:24.165896", "tokens": 296, "cost": 0.0041, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:27.188590", "tokens": 313, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:30.695614", "tokens": 317, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:31.915800", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:32.205226", "tokens": 325, "cost": 0.005, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:34.293485", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:34.915291", "tokens": 307, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:38.703079", "tokens": 312, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:40.026747", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:42.159886", "tokens": 315, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:43.087860", "tokens": 303, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:47.783796", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:48.118047", "tokens": 307, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:48.923877", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:51.603785", "tokens": 320, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:53.061636", "tokens": 310, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:57.533350", "tokens": 312, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:59.567961", "tokens": 314, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:00:59.615031", "tokens": 307, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:00.656338", "tokens": 306, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:00.873553", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:07.253492", "tokens": 327, "cost": 0.005, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:09.909907", "tokens": 317, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:11.430212", "tokens": 307, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:12.876584", "tokens": 339, "cost": 0.0054, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:13.909297", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:14.309045", "tokens": 300, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:17.597997", "tokens": 318, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:18.412549", "tokens": 300, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:21.043677", "tokens": 302, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:26.051868", "tokens": 318, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:26.224503", "tokens": 333, "cost": 0.0052, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:26.717686", "tokens": 332, "cost": 0.0052, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:27.385439", "tokens": 306, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:28.167676", "tokens": 306, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:32.580496", "tokens": 306, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:37.668156", "tokens": 302, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:37.669350", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:37.694566", "tokens": 318, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:43.438906", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:43.992220", "tokens": 305, "cost": 0.0044, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:46.091626", "tokens": 298, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:46.326174", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:46.500471", "tokens": 299, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:49.692340", "tokens": 302, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:54.081852", "tokens": 327, "cost": 0.005, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:55.814640", "tokens": 328, "cost": 0.0051, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:56.254849", "tokens": 315, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:56.551090", "tokens": 312, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:01:58.237119", "tokens": 329, "cost": 0.0051, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:02:00.611451", "tokens": 317, "cost": 0.0047, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:02:04.417601", "tokens": 300, "cost": 0.0042, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:02:05.931010", "tokens": 301, "cost": 0.0043, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:02:06.809110", "tokens": 309, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:02:07.850923", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:02:10.138170", "tokens": 308, "cost": 0.0045, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:02:12.273376", "tokens": 328, "cost": 0.0051, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:02:13.217586", "tokens": 319, "cost": 0.0048, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:02:15.660617", "tokens": 312, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-26T18:02:16.889660", "tokens": 311, "cost": 0.0046, "question_preview": "my ball is resting on the bridge between the 17th ..."}
+{"timestamp": "2025-06-27T15:45:30.511522", "tokens": 345, "cost": 0.0058, "question_preview": "my ball came to rest on the bridge between 17 and ..."}
+{"timestamp": "2025-06-27T15:49:53.426051", "tokens": 298, "cost": 0.0046, "question_preview": "lost ball in the penalty area on Hall 3"}
+{"timestamp": "2025-06-27T15:49:59.382841", "tokens": 306, "cost": 0.0048, "question_preview": "lost ball in the penalty area on Hall 3"}
+{"timestamp": "2025-06-30T08:56:59.347440", "tokens": 364, "cost": 0.0063, "question_preview": "my ball is embedded in the in the grass on a steep..."}
+{"timestamp": "2025-06-30T16:38:37.100506", "tokens": 308, "cost": 0.0049, "question_preview": "I lost my ball what do I do"}
+{"timestamp": "2025-06-30T16:38:44.241062", "tokens": 318, "cost": 0.0052, "question_preview": "I lost my ball what do I do"}
+{"timestamp": "2025-06-30T16:38:50.281729", "tokens": 311, "cost": 0.005, "question_preview": "I lost my ball what do I do"}
+{"timestamp": "2025-06-30T16:38:57.600792", "tokens": 311, "cost": 0.005, "question_preview": "I lost my ball what do I do"}
+{"timestamp": "2025-06-30T16:39:05.029784", "tokens": 298, "cost": 0.0046, "question_preview": "I lost my ball what do I do"}
+{"timestamp": "2025-06-30T16:39:16.309795", "tokens": 312, "cost": 0.005, "question_preview": "I lost my ball what do I do"}
+{"timestamp": "2025-06-30T16:39:25.017490", "tokens": 296, "cost": 0.0046, "question_preview": "I lost my ball what do I do"}
+{"timestamp": "2025-06-30T16:42:23.032194", "tokens": 296, "cost": 0.0046, "question_preview": "I lost my ball what do I do"}
+{"timestamp": "2025-06-30T16:42:29.522925", "tokens": 312, "cost": 0.005, "question_preview": "I lost my ball what do I do"}
+{"timestamp": "2025-06-30T16:42:35.520823", "tokens": 301, "cost": 0.0047, "question_preview": "I lost my ball what do I do"}
+{"timestamp": "2025-06-30T17:02:59.187084", "tokens": 299, "cost": 0.0048, "question_preview": "lost ball"}
+{"timestamp": "2025-06-30T17:04:49.820954", "tokens": 318, "cost": 0.005, "question_preview": "ball lost in red penalty area"}
+{"timestamp": "2025-06-30T17:04:59.778547", "tokens": 402, "cost": 0.0075, "question_preview": "ball lost in red penalty area"}
+{"timestamp": "2025-06-30T17:21:52.475488", "tokens": 323, "cost": 0.0054, "question_preview": "lost ball in yellow penalty area"}
+{"timestamp": "2025-06-30T17:38:36.560940", "tokens": 288, "cost": 0.0044, "question_preview": "my opponent hit my ball"}
+{"timestamp": "2025-06-30T17:59:08.932295", "tokens": 285, "cost": 0.0042, "question_preview": "ball came to rest touching another player's ball i..."}
+{"timestamp": "2025-06-30T18:14:40.904370", "tokens": 275, "cost": 0.0039, "question_preview": "my ball is sitting on the gravel road behind the"}
+{"timestamp": "2025-06-30T18:18:16.813731", "tokens": 265, "cost": 0.0031, "question_preview": "I seem to have"}
+{"timestamp": "2025-06-30T18:24:48.872940", "tokens": 431, "cost": 0.0077, "question_preview": "what are my options"}
+{"timestamp": "2025-06-30T18:31:27.805058", "tokens": 316, "cost": 0.0046, "question_preview": "it's difficult for me  to identify  my ball becaus..."}
+{"timestamp": "2025-07-01T14:36:04.333925", "tokens": 313, "cost": 0.0046, "question_preview": "in four ball match play  what happens if my partne..."}
+{"timestamp": "2025-07-01T18:04:26.714522", "tokens": 340, "cost": 0.0055, "question_preview": "my opponent hit my ball"}
+{"timestamp": "2025-07-02T13:08:43.718932", "tokens": 353, "cost": 0.0056, "question_preview": "I accidentally moved my ball  what do I do"}
+{"timestamp": "2025-07-02T13:10:27.415210", "tokens": 381, "cost": 0.0065, "question_preview": "my ball moved  what do I do"}
+{"timestamp": "2025-07-08T15:36:01.652500", "tokens": 314, "cost": 0.005, "question_preview": "my ball is embedded Within  a penalty area  what a..."}
+<<<<<<< HEAD
+{"timestamp": "2025-07-09T17:47:39.504624", "tokens": 291, "cost": 0.004, "question_preview": "I hit a provisional ball that ended up in the same..."}
+=======
+>>>>>>> f1280c52a1906fe2ed4beb50954ee280cf602079
+{"timestamp": "2025-07-10T11:15:33.363535", "tokens": 354, "cost": 0.0053, "question_preview": "I hit a provisional ball  into the same general lo..."}
+{"timestamp": "2025-07-10T11:45:50.322441", "tokens": 342, "cost": 0.0051, "question_preview": "my ball landed in a tree  I can see it but I canno..."}
+{"timestamp": "2025-07-10T13:29:16.605935", "tokens": 358, "cost": 0.0053, "question_preview": "I hit my tee shot on number two and it went over  ..."}
+{"timestamp": "2025-07-10T14:29:43.298771", "tokens": 354, "cost": 0.0053, "question_preview": "I hit my tee shot on number two and it went over t..."}
